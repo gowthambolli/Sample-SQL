@@ -1,5 +1,5 @@
 --------------------------------------------------------
---  DDL for Table DEMO_TABLE1
+--  DDL for Table FD DEMO_TABLE1
 --------------------------------------------------------
 
   CREATE TABLE "MP1"."DEMO_TABLE1" 
